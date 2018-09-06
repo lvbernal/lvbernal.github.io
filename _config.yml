@@ -17,7 +17,7 @@ title: "@lvbernal"
 author: Leonardo Vargas
 location: Cali, Colombia
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a Telematics Engineer that loves software development, telecommunications and research, with some experience developing mobile applications.
+  I am a Telematics Engineer that loves software development, telecommunications and research, with some experience developing mobile applications
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lvbernal
