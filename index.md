@@ -10,3 +10,5 @@ Hi! I am Leonardo Vargas, a Telematics Engineer that loves software development,
 I am from Cali, Colombia, work remotely and co-organize the [Xamarin Cali Meetup](https://www.meetup.com/Xamarin-Cali/).
 
 Here is my [Blog](https://blog.lvbernal.com/) (mainly in spanish) and my [LinkedIn profile](https://www.linkedin.com/in/lvbernal/). You can find me as @lvbernal [almost] everywhere online.
+
+[Here you can find some apps I have developed](/apps).
