@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! I am Leonardo Vargas. I am a Telematics Engineer that loves software development, telecommunications and research, with some experience developing mobile applications. I have research background and have worked with Xamarin, Android, Python (Django, Spark), .NET and Cloud Computing platforms (AWS, Azure).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am from Cali, Colombia, work remotely and co-organize the [Xamarin Cali Meetup](https://www.meetup.com/Xamarin-Cali/).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Here is my [Blog](https://blog.lvbernal.com/) (mainly in spanish) and my [LinkedIn profile](https://www.linkedin.com/in/lvbernal/). You can find me as @lvbernal [almost] everywhere online.
