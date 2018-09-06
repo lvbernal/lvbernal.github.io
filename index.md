@@ -5,10 +5,12 @@
 layout: home
 ---
 
-Hi! I am Leonardo Vargas, a Telematics Engineer that loves software development, telecommunications and research, with experience developing mobile applications. I have research background and have worked with Xamarin, Android, Python (Django, Spark), .NET and Cloud Computing platforms (AWS, Azure).
+Hi! I am __Leonardo Vargas__, a Telematics Engineer that loves software development, telecommunications and research, with experience developing __mobile applications__. I have research background and have worked with __Xamarin__, Android, __Python__ (Django, Spark), __.NET__ and __Cloud Computing__ platforms (AWS, Azure).
 
 I am from Cali, Colombia, work remotely and co-organize the [Xamarin Cali Meetup](https://www.meetup.com/Xamarin-Cali/).
 
 Here is my [Blog](https://blog.lvbernal.com/) (mainly in spanish) and my [LinkedIn profile](https://www.linkedin.com/in/lvbernal/). You can find me as @lvbernal [almost] everywhere online.
 
 [Here you can find some apps I have developed](/apps).
+
+_Right now I am available for development projects._
