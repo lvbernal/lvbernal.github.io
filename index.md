@@ -5,7 +5,8 @@
 layout: home
 ---
 
-## Hi!
+Hi!
+---
 
 I am Leonardo Vargas, a Telematics Engineer that loves software development, telecommunications and research, with some experience developing mobile applications. I have research background and have worked with Xamarin, Android, Python (Django, Spark), .NET and Cloud Computing platforms (AWS, Azure).
 
