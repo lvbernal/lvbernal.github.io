@@ -19,7 +19,7 @@ These are some apps I have developed:
 
 * __Simona__ is an app companion for a spectrum monitoring unit.
     * Developed while working at the [i2T Research Group](https://www.icesi.edu.co/i2t/) of the [Universidad Icesi](http://www.icesi.edu.co).
-    * [Here](https://youtu.be/-Okj3ywicU8) you can see a video of the whole ecosystem.
+    * Here you can see a [video of the whole ecosystem](https://youtu.be/-Okj3ywicU8).
     * Design and interactions: i2T's design team.
     * Platform: Xamarin (Forms).
 <center>
@@ -30,7 +30,7 @@ These are some apps I have developed:
 
 * [__Leishmaniasis__](https://play.google.com/store/apps/details?id=i2t.cideim.leishmaniasis) helps in the early detection of cutaneous leishmaniasis.
     * Developed while working at the [i2T Research Group](https://www.icesi.edu.co/i2t/), in a research collaboration with [CIDEIM](http://www.cideim.org.co/cideim/).
-    * [Here](https://youtu.be/sk6mE4X6qV8) you can see a video of the app.
+    * Here you can see a [video of the app](https://youtu.be/sk6mE4X6qV8).
     * Design and interactions: i2T's design team.
     * Platform: Android (Java).
 <center>
@@ -42,4 +42,4 @@ These are some apps I have developed:
 * [__BetoApp__](https://play.google.com/store/apps/details?id=co.edu.icesi.i2t.chugarapp) is a prototype of an app companion for patients with diabetes.
     * Migrated an existing Android application to Xamarin, while working at the [i2T Research Group](https://www.icesi.edu.co/i2t/).
     * Design and interactions: i2T's design team.
-    * Platform: Xamarin.
+    * Platform: Xamarin (Forms).
