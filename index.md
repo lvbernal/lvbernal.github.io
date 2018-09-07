@@ -13,4 +13,4 @@ Here is my [Blog](https://blog.lvbernal.com/) (mainly in spanish) and my [Linked
 
 [Here you can find some apps I have developed](/apps).
 
-_Right now I am available for development projects._
+_I am available for contract or part-time development projects._
