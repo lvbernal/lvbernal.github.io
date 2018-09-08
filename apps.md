@@ -49,12 +49,22 @@ These are some apps I have developed:
     <br/><br/>
 </center>
 
-* __Calendario Tributario Colombiano__ (unsupported) shows the Colombian Tax Calendar and filters it according to the user needs. Contains the description of the taxes and its payment dates.
+* __Calendario Tributario Colombiano__ (offline / not supported) shows the Colombian Tax Calendar and filters it according to the user needs. Contains the description of the taxes and its payment dates.
     * Developed while working at FairService.
     * Design and interactions: Me.
     * Platform: Android (Java) and Windows 8.
 <center>
     <img src="/images/calendario1.png" height="512" border="1px" />
     <img src="/images/calendario2.png" height="512" border="1px" />
+    <br/><br/>
+</center>
+
+* And just for fun, my first app: __Ecosoft__ allows citizens to report crimes against the environment.
+    * Developed for the Imagine Cup 2008 competition.
+    * Design and interactions: Ecosoft's team.
+    * Platform: Windows Mobile 6.
+<center>
+    <img src="/images/ecosoft1.png" height="512" />
+    <img src="/images/ecosoft2.png" height="512" />
     <br/><br/>
 </center>
