@@ -43,3 +43,15 @@ These are some apps I have developed:
     * Migrated an existing Android application to Xamarin, while working at the [i2T Research Group](https://www.icesi.edu.co/i2t/).
     * Design and interactions: i2T's design team.
     * Platform: Xamarin (Forms).
+<center>
+</center>
+
+* __Calendario Tributario Colombiano__ (unsupported) shows the Colombian Tax Calendar and filters it according to the user needs. Contains the description of the taxes and its payment dates.
+    * Developed while working at FairService.
+    * Design and interactions: Me.
+    * Platform: Android (Java) and Windows 8.
+<center>
+    <img src="/images/calendario1.png" height="512" border="1px" />
+    <img src="/images/calendario2.png" height="512" border="1px" />
+    <br/><br/>
+</center>
