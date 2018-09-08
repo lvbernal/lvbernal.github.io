@@ -59,9 +59,9 @@ These are some apps I have developed:
     <br/><br/>
 </center>
 
-* And just for fun, my first app: __Ecosoft__ allows citizens to report crimes against the environment.
+* And just for fun, my first app: allows citizens to report crimes against the environment.
     * Developed for the Imagine Cup 2008 competition.
-    * Design and interactions: Ecosoft's team.
+    * Design and interactions: team of students.
     * Platform: Windows Mobile 6.
 <center>
     <img src="/images/ecosoft1.png" height="512" />
