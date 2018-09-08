@@ -39,11 +39,14 @@ These are some apps I have developed:
     <br/><br/>
 </center>
 
-* [__BetoApp__](https://play.google.com/store/apps/details?id=co.edu.icesi.i2t.chugarapp) is a prototype of an app companion for patients with diabetes.
-    * Migrated an existing Android application to Xamarin, while working at the [i2T Research Group](https://www.icesi.edu.co/i2t/).
+* [__BetoApp__](https://play.google.com/store/apps/details?id=co.edu.icesi.i2t.chugarapp) is a prototype of app companion for patients with diabetes.
+    * Migrated an existing Android application to Xamarin, while working at the [i2T Research Group](https://www.icesi.edu.co/i2t/). The original app was developed by other team members, in collaboration with local health care institutions.
     * Design and interactions: i2T's design team.
     * Platform: Xamarin (Forms).
 <center>
+    <img src="/images/beto1.png" height="512" border="1px" />
+    <img src="/images/beto2.png" height="512" border="1px" />
+    <br/><br/>
 </center>
 
 * __Calendario Tributario Colombiano__ (unsupported) shows the Colombian Tax Calendar and filters it according to the user needs. Contains the description of the taxes and its payment dates.
