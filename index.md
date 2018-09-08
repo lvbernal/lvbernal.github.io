@@ -6,7 +6,7 @@ layout: home
 ---
 
 <center>
-    <img src="/images/profile.png" height="144" />
+    <img src="/images/profile.png" height="152" />
     <br/><br/>
 </center>
 
