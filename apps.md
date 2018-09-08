@@ -9,7 +9,7 @@ title: Apps
 These are some apps I have developed:
 
 * [__ParqueaderoApp__](http://www.parqueaderoapp.com) controls the entry and exit of vehicles in parking lots. It started as a solution for a family business and now is helping other owners to gain control.
-    * Design and interactions: Me.
+    * Design and interactions: Me (icons from Noun Project).
     * Platform: Xamarin (Forms).
 <center>
     <img src="/images/parqueaderoapp1.png" height="512" border="1px" />
