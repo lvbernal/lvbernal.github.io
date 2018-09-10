@@ -18,4 +18,4 @@ Here is my [Blog](https://blog.lvbernal.com/) (mainly in spanish) and my [Linked
 
 [Here you can find some apps I have developed](/apps).
 
-Are you looking for a software developer with a problem-solving approach? send me a message, I am available for contract or part-time projects.
+Are you looking for a software developer that uses a problem-solving approach? [send me a message](https://www.linkedin.com/in/lvbernal/), I am available for contract or part-time projects.
