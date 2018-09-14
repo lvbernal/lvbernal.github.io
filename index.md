@@ -16,6 +16,6 @@ I am from Cali, Colombia, love to learn, __work remotely__ and co-organize the [
 
 Here is my [Blog](https://blog.lvbernal.com/) (mainly in spanish) and my [LinkedIn profile](https://www.linkedin.com/in/lvbernal/). You can find me as @lvbernal [almost] everywhere online.
 
-[Here you can find some apps I have developed](/apps), in fields such as Telecommunications, mHealth, Environment and Finance.
+[Here you can find some apps I have developed](/apps), in fields such as mHealth, Telecommunications, B2B and Environment.
 
 _Are you looking for a software developer that uses a problem-solving approach?_ [send me a message](https://www.linkedin.com/in/lvbernal/).
