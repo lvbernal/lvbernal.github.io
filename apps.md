@@ -8,16 +8,6 @@ title: Apps
 
 These are some apps I have developed:
 
-* [__ParqueaderoApp__](http://www.parqueaderoapp.com) controls the entry and exit of vehicles in parking lots. It started as a solution for a family business and now is helping other owners to gain control.
-    * Back-end: ASP.NET Core, Azure.
-    * Design and interactions: Me (icons from Noun Project).
-    * Platform: Xamarin (Forms).
-<center>
-    <img src="/images/parqueaderoapp1.png" height="512" border="1px" />
-    <img src="/images/parqueaderoapp2.png" height="512" border="1px" />
-    <br/><br/>
-</center>
-
 * __Simona__ is an app companion for a spectrum monitoring unit.
     * Developed while working at the [i2T Research Group](https://www.icesi.edu.co/i2t/) of the [Universidad Icesi](http://www.icesi.edu.co).
     * Here you can see a [video of the whole ecosystem](https://youtu.be/-Okj3ywicU8).
@@ -38,6 +28,16 @@ These are some apps I have developed:
 <center>
     <img src="/images/leishmaniasis1.png" height="512" border="1px" />
     <img src="/images/leishmaniasis2.png" height="512" border="1px" />
+    <br/><br/>
+</center>
+
+* [__ParqueaderoApp__](http://www.parqueaderoapp.com) controls the entry and exit of vehicles in parking lots. It started as a solution for a family business and now is helping other owners to gain control.
+    * Back-end: ASP.NET Core, Azure.
+    * Design and interactions: Me (icons from Noun Project).
+    * Platform: Xamarin (Forms).
+<center>
+    <img src="/images/parqueaderoapp1.png" height="512" border="1px" />
+    <img src="/images/parqueaderoapp2.png" height="512" border="1px" />
     <br/><br/>
 </center>
 
