@@ -29,7 +29,12 @@
             </div>
 
             <div class="footer-col footer-col-3">
-                <p>{{- site.description | escape -}}</p>
+                {%- if page.lang == "en" -%}
+                    <p>{{- site.description | escape -}}</p>
+                {%- endif -%}
+                {%- if page.lang == "es" -%}
+                    <p>{{- site.description_es | escape -}}</p>
+                {%- endif -%}
             </div>
         </div>
 
