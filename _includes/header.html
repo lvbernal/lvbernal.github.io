@@ -1,7 +1,13 @@
 <header class="site-header" role="banner">
 
   <div class="wrapper">
-    <span class="site-title">{{ site.title | escape }}</span>
+
+    {%- if page.lang == "en" -%}
+      <a class="site-title" rel="author" href="/">{{ site.title | escape }}</a>
+    {%- endif -%}
+    {%- if page.lang == "es" -%}
+      <a class="site-title" rel="author" href="/es">{{ site.title | escape }}</a>
+    {%- endif -%}
 
     <nav class="site-nav">
       <input type="checkbox" id="nav-trigger" class="nav-trigger" />
