@@ -11,7 +11,7 @@ lang: es
 Estas son algunas aplicaciones que he desarrollado:
 
 * __Simona__ es un _app companion_ para un sistema de monitoreo de espectro radioeléctrico.
-    * Desarrollada en el [Grupo de Investigación i2T](https://www.icesi.edu.co/i2t/) de la [Universidad Icesi](http://www.icesi.edu.co).
+    * Desarrollada en el [Grupo de Investigación i2T](https://www.icesi.edu.co/i2t/).
     * Este es un [video de todo el ecosistema](https://youtu.be/-Okj3ywicU8).
     * También trabajé en el [sistema de monitoreo](https://ieeexplore.ieee.org/document/7387936/) (Python, GNU Radio) y en el servidor (Django).
     * Diseño e interacción: equipo de diseño de i2T.
