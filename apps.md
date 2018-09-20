@@ -53,7 +53,7 @@ These are some apps I have developed:
     <br/><br/>
 </center>
 
-* __Calendario Tributario Colombiano__ (offline / not supported) shows the Colombian Tax Calendar and filters it according to the user needs. Contains the description of the taxes and its payment dates.
+* __Calendario Tributario Colombiano__ (retired) shows the Colombian Tax Calendar and filters it according to the user needs. Contains the description of the taxes and its payment dates.
     * Developed while working at FairService.
     * Design and interactions: Me.
     * Platform: Android (Java) and Windows 8.

@@ -53,7 +53,7 @@ Estas son algunas aplicaciones que he desarrollado:
     <br/><br/>
 </center>
 
-* __Calendario Tributario Colombiano__ (_offline_ / sin soporte) muestra el Calendario Tributario Colombiano y lo filtra de acuerdo a las necesidades del usuario. Contiene la descripción de los impuestos y sus fechas de pago.
+* __Calendario Tributario Colombiano__ (retirada) muestra el Calendario Tributario Colombiano y lo filtra de acuerdo a las necesidades del usuario. Contiene la descripción de los impuestos y sus fechas de pago.
     * Desarrollada mientras trabajaba en FairService.
     * Diseño e interacción: Yo.
     * Plataforma: Android (Java) y Windows 8.
