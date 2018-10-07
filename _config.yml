@@ -17,9 +17,9 @@ title: "@lvbernal"
 author: Leonardo Vargas
 location: Cali, Colombia
 description: >- # this means to ignore new lines until the next variable
-  I am a Telematics Engineer with a Master's degree in Informatics and Telecommunications, that loves software development and research. I have 9+ years of experience developing mobile applications
+  I am a Telematics Engineer with a Master's degree in Informatics and Telecommunications, with nine+ years of experience creating and leading the development of mobile and web applications
 description_es: >-
-  Soy un Ingeniero Telemático y Magister en Informática y Telecomunicaciones, que ama el desarrollo de software y la investigación. Tengo 9+ años de experiencia desarrollando aplicaciones móviles
+  Soy un Ingeniero Telemático y Magister en Informática y Telecomunicaciones, con nueve+ años de experiencia creando y liderando el desarrollo de aplicaciones web y móviles
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lvbernal
