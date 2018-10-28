@@ -21,7 +21,7 @@ description: >- # this means to ignore new lines until the next variable
 description_es: >-
   Soy un Ingeniero Telemático y Magister en Informática y Telecomunicaciones, con nueve+ años de experiencia creando y liderando el desarrollo de aplicaciones web y móviles
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://lvbernal.com"
 twitter_username: lvbernal
 github_username:  lvbernal
 linkedin_username: lvbernal
