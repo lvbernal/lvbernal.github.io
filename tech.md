@@ -6,8 +6,6 @@ layout: default
 lang: en
 ---
 
-## Development Technologies
-
 ### Mobile
 
 * Xamarin
