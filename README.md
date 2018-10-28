@@ -1,6 +1,6 @@
-# My portfolio of mobile applications
+# My personal website
 
-Available in [https://lvbernal.github.io](https://lvbernal.github.io).
+Available in [http://lvbernal.com](http://lvbernal.com).
 
 ### Licence
 
