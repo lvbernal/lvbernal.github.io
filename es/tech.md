@@ -10,8 +10,9 @@ lang: en
 
 * Xamarin
 * Android
+* WUP
 
-### Web / Backend
+### Web
 
 * .NET
 * Django
@@ -19,10 +20,21 @@ lang: en
 * React, Redux
 * Node.js
 
+### Datos y scripting
+
 * GNU Radio
 * Spark
+* GIS
+* Hadoop
 
 ### Plataformas
 
 * Microsoft Azure
 * Amazon Web Services
+
+### Lenguajes de programación
+
+* C#
+* Python
+* JavaScript
+* Java
