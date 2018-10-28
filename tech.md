@@ -8,8 +8,6 @@ lang: en
 
 ## Development Technologies
 
-These are some development technologies I use:
-
 ### Mobile
 
 * Xamarin
