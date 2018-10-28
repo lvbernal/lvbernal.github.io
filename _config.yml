@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "@lvbernal"
+title: "Leonardo Vargas"
 author: Leonardo Vargas
 location: Cali, Colombia
 description: >- # this means to ignore new lines until the next variable
