@@ -11,8 +11,6 @@ lang: en
     <br/><br/>
 </center>
 
-Hi! I am __Leonardo Vargas__, I am a __Research, Development and Innovation__ Engineer. I create mobile ecosystems since 2008 and have worked in __multidisciplinary teams__ of designers, developers and business stakeholders, using multiple technologies.
+Hi! I am __Leonardo Vargas__. I am a __Research and Development__ Engineer. I create mobile applications and ecosystems since 2008 and have worked in __multidisciplinary teams__ of designers, developers and business stakeholders, using [multiple technologies](/tech).
 
-[Here you can find some apps I have developed](/apps), in fields such as __mHealth__, __Telecommunications__ and __B2B__. I use Xamarin, Android, Python (Django, Spark, GNU Radio), .NET, JavaScript (React, Redux, Angular) and Cloud Computing platforms (AWS, Azure).
-
-I am from Cali, Colombia, love to learn, __work remotely__ and co-organize the [Xamarin Cali Meetup](https://www.meetup.com/Xamarin-Cali/). Here is my [Blog](https://blog.lvbernal.com/) (mainly in spanish) and my [LinkedIn profile](https://www.linkedin.com/in/lvbernal/). You can find me as @lvbernal [almost] everywhere online.
+[Here you can find some apps I have developed](/apps), in fields such as __mHealth__, __Telecommunications__ and __B2B__. I am from Cali, Colombia, love to learn, __work remotely__ and co-organize the [Xamarin Cali Meetup](https://www.meetup.com/Xamarin-Cali/). Here is my [Blog](https://blog.lvbernal.com/) (mainly in spanish) and my [LinkedIn profile](https://www.linkedin.com/in/lvbernal/). You can find me as @lvbernal [almost] everywhere online.
