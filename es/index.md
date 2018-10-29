@@ -15,4 +15,4 @@ Hola! Soy __Leonardo__, trabajo en procesos de __Investigación y Desarrollo__. 
 
 [Estas son algunas aplicaciones que he desarrollado](/es/apps), en campos como mHealth, Telecomunicaciones y B2B. Soy de Cali, Colombia, me gusta aprender, trabajo de forma remota y soy co-organizador del [Meetup Xamarin Cali](https://www.meetup.com/Xamarin-Cali/). Este es mi [Blog](https://blog.lvbernal.com/) y mi [perfil de LinkedIn](https://www.linkedin.com/in/lvbernal/) (en inglés). Puedes encontrarme como lvbernal en [casi] cualquier parte.
 
-__¿Necesitas ayuda con tu estrategia móvil?__ [contáctame por LinkedIn](https://www.linkedin.com/in/lvbernal/).
+__¿Necesitas ayuda con tu estrategia móvil?__ [contáctame por LinkedIn](https://www.linkedin.com/in/lvbernal/) o [llena este formulario](https://goo.gl/forms/TxQgrcByjhA469of2).
