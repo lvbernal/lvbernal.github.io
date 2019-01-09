@@ -13,6 +13,6 @@ lang: es
 
 Hola! Soy __Leonardo__. Construyo __aplicaciones y ecosistemas móviles__ desde 2008.
 
-[Estas son algunas aplicaciones que he desarrollado](/es/apps), en campos como mHealth, Telecomunicaciones y B2B. Soy de Cali, Colombia, me gusta aprender, trabajo de forma remota y soy co-organizador del [Meetup CaliSharp](https://www.meetup.com/CaliSharpCO/). Este es mi [Blog](https://blog.lvbernal.com/) y mi [perfil de LinkedIn](https://www.linkedin.com/in/lvbernal/) (en inglés). Puedes encontrarme como lvbernal en casi cualquier parte.
+[Estas son algunas aplicaciones que he desarrollado](/es/apps), en campos como mHealth, Telecomunicaciones y B2B. Soy de Cali, Colombia, me gusta aprender, trabajo de forma remota y soy co-organizador del meetup [CaliSharp](https://www.meetup.com/CaliSharpCO/). Este es mi [Blog](https://blog.lvbernal.com/) y mi [perfil de LinkedIn](https://www.linkedin.com/in/lvbernal/) (en inglés). Puedes encontrarme como lvbernal en casi cualquier parte.
 
 Si necesitas contactarme, solo [envíame un mensaje](https://www.linkedin.com/in/lvbernal/).
