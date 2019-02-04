@@ -17,9 +17,9 @@ title: "Leonardo Vargas"
 author: Leonardo Vargas
 location: Cali, Colombia
 description: >- # this means to ignore new lines until the next variable
-  I am a Telematics Engineer with a Master's degree in Informatics and Telecommunications. I work mainly on telecommunications and mHealth
+  I am a Telematics Engineer with a Master's degree in Informatics and Telecommunications. I work mainly on telecommunications and mHealth.
 description_es: >-
-  Soy un Ingeniero Telemático y Magister en Informática y Telecomunicaciones. Trabajo principalmente en telecomunicaciones y mHealth
+  Soy un Ingeniero Telemático y Magister en Informática y Telecomunicaciones. Trabajo principalmente en telecomunicaciones y mHealth.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://lvbernal.com"
 twitter_username: lvbernal
