@@ -11,8 +11,8 @@ lang: en
     <br/><br/>
 </center>
 
-Hi! I am __Leonardo__. I am a Telematics Engineer.
+Hi! I am Leonardo.
 
-[I create apps](/apps) mainly for mHealth, Telecommunications and B2B. I am from Cali, Colombia, love to learn, work remotely and co-organize the [CaliSharp](https://www.meetup.com/CaliSharpCO/) meetup. Here is my [Blog](https://blog.lvbernal.com/) (in spanish) and my [LinkedIn profile](https://www.linkedin.com/in/lvbernal/). You can find me as lvbernal almost everywhere online.
+I am a Telematics Engineer. [I create apps](/apps) mainly for Telecommunications, mHealth and B2B. I am from Cali, Colombia, love to learn, work remotely and co-organize the [CaliSharp](https://www.meetup.com/CaliSharpCO/) meetup. Here is my [Blog](https://blog.lvbernal.com/) (in spanish) and my [LinkedIn profile](https://www.linkedin.com/in/lvbernal/). You can find me as lvbernal almost everywhere online.
 
 If you want to contact me, send me a message via LinkedIn or Twitter.
