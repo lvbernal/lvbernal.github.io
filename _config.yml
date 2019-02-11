@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Leonardo Vargas"
-author: Leonardo Vargas
+author: Leonardo Vargas-Bernal
 location: Cali, Colombia
 description: >- # this means to ignore new lines until the next variable
   I am a Telematics Engineer. I work mainly on telecommunications and mHealth.
