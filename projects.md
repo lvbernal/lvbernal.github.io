@@ -31,6 +31,13 @@ These are some projects I have worked on:
     <br/><br/>
 </center>
 
+* __Consulting__. Definition of technical parameters, simulations, field work, monitoring networks, translation of technical documents, etc.
+    * Colombia and Costa Rica.
+<center>
+    <img src="/images/costarica1.jpg" height="512" border="1px" />
+    <br/><br/>
+</center>
+
 * [__ParqueaderoApp__](http://www.parqueaderoapp.com) controls the entry and exit of vehicles in parking lots. It started as a solution for a family business and now is helping other owners to gain control.
 <center>
     <img src="/images/parqueaderoapp1.png" height="512" border="1px" />

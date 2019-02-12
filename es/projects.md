@@ -31,6 +31,13 @@ Estos son algunos proyectos en los que he participado:
     <br/><br/>
 </center>
 
+* __Consultorías__. Definición de parámetros técnicos, simulaciones, trabajo de campo, redes de monitoreo, traducción de documentación técnica, etc.
+    * Colombia y Costa Rica.
+<center>
+    <img src="/images/costarica1.jpg" height="512" border="1px" />
+    <br/><br/>
+</center>
+
 * [__ParqueaderoApp__](http://www.parqueaderoapp.com) controla la entrada y salida de vehículos en parqueaderos. Empezó como una solución para un negocio familiar y ahora está ayudando a otras personas a tener el control.
 <center>
     <img src="/images/parqueaderoapp1.png" height="512" border="1px" />
