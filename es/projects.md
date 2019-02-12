@@ -6,9 +6,9 @@ layout: default
 lang: es
 ---
 
-## Apps
+## Proyectos
 
-Estas son algunas aplicaciones que he desarrollado:
+Estos son algunos proyectos en los que he participado:
 
 * __Simona__ es un _app companion_ para un sistema de monitoreo de espectro radioeléctrico.
     * Desarrollada en el [Grupo de Investigación i2T](https://www.icesi.edu.co/i2t/).

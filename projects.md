@@ -6,9 +6,9 @@ layout: default
 lang: en
 ---
 
-## Apps
+## Projects
 
-These are some apps I have developed:
+These are some projects I have worked on:
 
 * __Simona__ is an app companion for a spectrum monitoring unit.
     * Developed while working at the [i2T Research Group](https://www.icesi.edu.co/i2t/).
