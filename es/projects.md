@@ -13,7 +13,7 @@ Estos son algunos proyectos en los que he participado:
 * El __Simon__ es un sistema de monitoreo de espectro radioeléctrico.
     * Desarrollado en el [Grupo de Investigación i2T](https://www.icesi.edu.co/i2t/).
     * Este es un [video de todo el ecosistema](https://youtu.be/-Okj3ywicU8).
-    * Diseño e interacción: equipo de diseño de i2T.
+    * Diseño e interacción: equipo de diseño de i2T, liderado por Patricia Madriñán.
     * Aplicación móvil: Simona.
 <center>
     <img src="/images/simona1.png" height="512" border="1px" />
@@ -24,7 +24,7 @@ Estos son algunos proyectos en los que he participado:
 * [__Leishmaniasis__](https://play.google.com/store/apps/details?id=i2t.cideim.leishmaniasis) ayuda en la detección temprana de la leishmaniasis cutánea.
     * Desarrollada en el [Grupo de Investigación i2T](https://www.icesi.edu.co/i2t/), en colaboración con el [CIDEIM](http://www.cideim.org.co/cideim/).
     * Este es un [video de la aplicación](https://youtu.be/sk6mE4X6qV8).
-    * Diseño e interacción: equipo de diseño de i2T.
+    * Diseño e interacción: equipo de diseño de i2T, liderado por Patricia Madriñán.
 <center>
     <img src="/images/leishmaniasis1.png" height="512" border="1px" />
     <img src="/images/leishmaniasis2.png" height="512" border="1px" />
@@ -47,7 +47,7 @@ Estos son algunos proyectos en los que he participado:
 
 * [__BetoApp__](https://play.google.com/store/apps/details?id=co.edu.icesi.i2t.chugarapp) es un prototipo de _app companion_ para pacientes con diabetes.
     * Actualización de una aplicación, con el [Grupo de Investigación i2T](https://www.icesi.edu.co/i2t/). La aplicación original fue desarrollada por otros integrantes del equipo, en colaboración con entidades de salud locales.
-    * Diseño e interacción: equipo de diseño de i2T.
+    * Diseño e interacción: equipo de diseño de i2T, liderado por Patricia Madriñán.
 <center>
     <img src="/images/beto1.png" height="512" border="1px" />
     <img src="/images/beto2.png" height="512" border="1px" />

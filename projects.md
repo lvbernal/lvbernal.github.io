@@ -13,7 +13,7 @@ These are some projects I have worked on:
 * __Simon__ is a spectrum monitoring unit.
     * Developed while working at the [i2T Research Group](https://www.icesi.edu.co/i2t/).
     * Here you can see a [video of the whole ecosystem](https://youtu.be/-Okj3ywicU8).
-    * Design and interactions: i2T's design team.
+    * Design and interactions: i2T's design team, led by Patricia Madriñán.
     * Mobile app: Simona.
 <center>
     <img src="/images/simona1.png" height="512" border="1px" />
@@ -24,7 +24,7 @@ These are some projects I have worked on:
 * [__Leishmaniasis__](https://play.google.com/store/apps/details?id=i2t.cideim.leishmaniasis) helps in the early detection of cutaneous leishmaniasis.
     * Developed while working at the [i2T Research Group](https://www.icesi.edu.co/i2t/), in a research collaboration with [CIDEIM](http://www.cideim.org.co/cideim/).
     * Here you can see a [video of the app](https://youtu.be/sk6mE4X6qV8).
-    * Design and interactions: i2T's design team.
+    * Design and interactions: i2T's design team, led by Patricia Madriñán.
 <center>
     <img src="/images/leishmaniasis1.png" height="512" border="1px" />
     <img src="/images/leishmaniasis2.png" height="512" border="1px" />
@@ -47,7 +47,7 @@ These are some projects I have worked on:
 
 * [__BetoApp__](https://play.google.com/store/apps/details?id=co.edu.icesi.i2t.chugarapp) is a prototype of app companion for patients with diabetes.
     * App update, while working at the [i2T Research Group](https://www.icesi.edu.co/i2t/). The original app was developed by other team members, in collaboration with local health care institutions.
-    * Design and interactions: i2T's design team.
+    * Design and interactions: i2T's design team, led by Patricia Madriñán.
 <center>
     <img src="/images/beto1.png" height="512" border="1px" />
     <img src="/images/beto2.png" height="512" border="1px" />
