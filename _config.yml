@@ -1,16 +1,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-title: "Leonardo Vargas"
+title: "@lvbernal"
 author: Leonardo Vargas-Bernal
 location: Cali, Colombia
-description: >-
-  I am a Telematics Engineer. I work mainly on telecommunications and mHealth.
-description_es: >-
-  Soy un Ingeniero Telemático. Trabajo principalmente en telecomunicaciones y mHealth.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://lvbernal.com"
 twitter_username: lvbernal
-github_username: lvbernal
 linkedin_username: lvbernal
 
 # Build settings
