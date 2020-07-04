@@ -15,4 +15,4 @@ Hola! Soy Leonardo.
 
 Construyo software y co-organizo la comunidad [CaliSharp](https://www.meetup.com/CaliSharpCO/). Este es mi [Blog](https://blog.lvbernal.com/) y mi [perfil de LinkedIn](https://www.linkedin.com/in/lvbernal/) (en inglés). Puedes encontrarme como lvbernal en casi cualquier parte.
 
-Si quieres contactarme, envíame un mensaje por Twitter o LinkedIn.
+Si quieres contactarme, envíame un mensaje por Twitter.
