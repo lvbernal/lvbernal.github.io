@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: Inicio
 ---
 
 <center>
@@ -12,7 +13,7 @@ layout: default
 
 ¡Hola! Soy Leonardo.
 
-Construyo software y co-organizo la [comunidad CaliSharp](https://www.meetup.com/CaliSharpCO/). Soy Ingeniero Telemático de profesión, me encanta el desarrollo y durante 10 años me he dedicado a proyectos relacionados principalmente con Telecomunicaciones y _mHealth_.
+Construyo software y co-organizo la [comunidad CaliSharp](https://www.meetup.com/CaliSharpCO/). Soy Ingeniero Telemático de profesión, me encanta el desarrollo y durante 10 años me he dedicado a [proyectos](/proyectos) relacionados principalmente con Telecomunicaciones y _mHealth_.
 
 Uso C# y Python, aunque muchas veces me aventuro a JavaScript. También he participado en estudios técnicos para definir los parámetros de operación y convivencia de tecnologías inalámbricas como 5G, DVB-T2 y LTE.
 
