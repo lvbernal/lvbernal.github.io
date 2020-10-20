@@ -32,6 +32,13 @@ Estos son algunos proyectos en los que he participado.
     <br/><br/>
 </center>
 
+* [__Ubik__](https://ubiksystem.com){:target="_blank"} mejora los resultados de instituciones, empresas y consultores a través de una plataforma que diagnostica, conecta y controla la actividad de consultoría.
+
+<center>
+    <img src="/images/ubik.png" height="512" border="1px" alt="Ubik" />
+    <br/><br/>
+</center>
+
 * __Consultorías__. Definición de parámetros técnicos, simulaciones, trabajo de campo, redes de monitoreo, traducción de documentación técnica, entre otros.
     * Colombia y Costa Rica.
 
