@@ -9,9 +9,9 @@ permalink: /proyectos/
 Estos son algunos proyectos en los que he participado.
 
 * El __Simon__ es un sistema de monitoreo de espectro radioeléctrico.
-    * Desarrollado en el [Grupo de Investigación i2T](https://www.icesi.edu.co/i2t/).
-    * Este es un [video de todo el ecosistema](https://youtu.be/-Okj3ywicU8).
-    * Diseño e interacción: equipo de diseño de i2T, liderado por [Patricia Madriñán](http://elsitiomio.com/).
+    * Desarrollado en el [Grupo de Investigación i2T](https://www.icesi.edu.co/i2t/){:target="_blank"}.
+    * Este es un [video de todo el ecosistema](https://youtu.be/-Okj3ywicU8){:target="_blank"}.
+    * Diseño e interacción: equipo de diseño de i2T, liderado por [Patricia Madriñán](http://elsitiomio.com/){:target="_blank"}.
     * Participé en el desarrollo de la aplicación móvil y del sistema embebido.
 <center>
     <img src="/images/simona1.png" height="512" border="1px" />
@@ -19,9 +19,9 @@ Estos son algunos proyectos en los que he participado.
     <br/><br/>
 </center>
 
-* [__Leishmaniasis__](https://play.google.com/store/apps/details?id=i2t.cideim.leishmaniasis) ayuda en la detección temprana de la leishmaniasis cutánea.
-    * Desarrollada en el [Grupo de Investigación i2T](https://www.icesi.edu.co/i2t/), en colaboración con el [CIDEIM](http://www.cideim.org.co/cideim/).
-    * Este es un [video de la aplicación](https://youtu.be/sk6mE4X6qV8).
+* [__Leishmaniasis__](https://play.google.com/store/apps/details?id=guaralrpctwo.cideim.guaral.guaralrpc){:target="_blank"} ayuda en la detección temprana de la leishmaniasis cutánea.
+    * Desarrollada en el Grupo de Investigación i2T, en colaboración con el [CIDEIM](http://www.cideim.org.co/cideim/){:target="_blank"}.
+    * Este es un [video de la aplicación](https://youtu.be/sk6mE4X6qV8){:target="_blank"}.
     * Diseño e interacción: equipo de diseño de i2T, liderado por Patricia Madriñán.
     * Participé en el desarrollo de la aplicación móvil y del _backend_.
 <center>
@@ -37,7 +37,7 @@ Estos son algunos proyectos en los que he participado.
     <br/><br/>
 </center>
 
-* [__ParqueaderoApp__](https://parqueaderoapp.azurewebsites.net/) controla la entrada y salida de vehículos en parqueaderos. Empezó como una solución para un negocio familiar y ahora está ayudando a otras personas a tener el control.
+* [__ParqueaderoApp__](https://parqueaderoapp.azurewebsites.net/){:target="_blank"} controla la entrada y salida de vehículos en parqueaderos. Empezó como una solución para un negocio familiar y ahora está ayudando a otras personas a tener el control.
 <center>
     <img src="/images/parqueaderoapp1.png" height="512" border="1px" />
     <img src="/images/parqueaderoapp2.png" height="512" border="1px" />
@@ -52,7 +52,7 @@ Estos son algunos proyectos en los que he participado.
 </center>
 
 * Mi primera aplicación: permite denunciar delitos contra el medio ambiente.
-    * Desarrollada para participar en [Imagine Cup 2008](https://blog.lvbernal.com/2011/09/imagine-cup-2011-new-york.html).
+    * Desarrollada para participar en [Imagine Cup 2008](https://blog.lvbernal.com/2011/09/imagine-cup-2011-new-york.html){:target="_blank"}.
 <center>
     <img src="/images/ecosoft1.png" height="512" />
     <img src="/images/ecosoft2.png" height="512" />

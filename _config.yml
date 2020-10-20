@@ -21,9 +21,10 @@
 title: "@lvbernal"
 author: "Leonardo Vargas Bernal"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://lvbernal.com"
+url: "lvbernal.com"
 twitter_username: lvbernal
 linkedin_username: lvbernal
+instagram_username: lvbernal
 
 # Build settings
 theme: minima

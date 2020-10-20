@@ -1,6 +1,6 @@
 # My personal website
 
-Available in [http://lvbernal.com](http://lvbernal.com).
+Available in [https://lvbernal.com](https://lvbernal.com).
 
 ### Licence
 
