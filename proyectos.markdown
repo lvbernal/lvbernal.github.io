@@ -64,7 +64,7 @@ Estos son algunos proyectos en los que he participado.
     <br/><br/>
 </center>
 
-* Mi primera aplicación: permite denunciar delitos contra el medio ambiente.
+* Mi primera aplicación móvil: permite denunciar delitos contra el medio ambiente.
     * Desarrollada para participar en [Imagine Cup 2008](https://blog.lvbernal.com/2011/09/imagine-cup-2011-new-york.html){:target="_blank"}.
 
 <center>
