@@ -18,3 +18,7 @@ Construyo software y co-organizo la [comunidad CaliSharp](https://www.meetup.com
 También he participado en estudios técnicos para definir los parámetros de operación y convivencia de tecnologías inalámbricas como 5G, DVB-T2 y LTE. Llevo varios años aprendiendo sobre Radio Definida por Software (_Software-Defined Radio_, SDR) y me gusta participar en comunidades de tecnología.
 
 Estos son mi [blog](https://blog.lvbernal.com/){:target="_blank"} y mi [perfil de LinkedIn](https://www.linkedin.com/in/lvbernal/){:target="_blank"}. Puedes encontrarme como lvbernal en casi cualquier parte.
+
+--
+
+*Actualmente y en orden de antiguedad: Investigador en el [Grupo i2t](https://www.icesi.edu.co/investigaciones-publicaciones/grupos/452-grupo-de-informatica-y-telecomunicaciones){:target="_blank"}, Líder Técnico de [Ubik](https://ubiksystem.com){:target="_blank"} y Desarrollador en [AnniQ](https://www.anniq.ai/){:target="_blank"}.*
