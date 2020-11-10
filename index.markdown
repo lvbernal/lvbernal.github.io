@@ -21,4 +21,4 @@ Estos son mi [blog](https://blog.lvbernal.com/){:target="_blank"} y mi [perfil d
 
 --
 
-*Actualmente y en orden de antiguedad: Investigador en el [Grupo i2t](https://www.icesi.edu.co/investigaciones-publicaciones/grupos/452-grupo-de-informatica-y-telecomunicaciones){:target="_blank"}, Líder Técnico de [Ubik](https://ubiksystem.com){:target="_blank"} y Desarrollador en [AnniQ](https://www.anniq.ai/){:target="_blank"}.*
+*Actualmente y en orden de antiguedad: [Grupo i2t](https://www.icesi.edu.co/investigaciones-publicaciones/grupos/452-grupo-de-informatica-y-telecomunicaciones){:target="_blank"}, [Ubik](https://ubiksystem.com){:target="_blank"} y [AnniQ](https://www.anniq.ai/){:target="_blank"}.*
