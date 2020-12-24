@@ -13,6 +13,7 @@ Estos son algunos proyectos en los que he participado.
     * Este es un [video de todo el ecosistema](https://youtu.be/-Okj3ywicU8){:target="_blank"}.
     * Diseño e interacción: equipo de diseño de i2T, liderado por [Patricia Madriñán](http://elsitiomio.com/){:target="_blank"}.
     * Participé en el desarrollo de la aplicación móvil y del sistema embebido, que usa Radio Definida por Software (SDR).
+    * Es quizá el proyecto más complejo en el que he participado.
 
 <center>
     <img src="/images/simona1.png" height="512" border="1px" alt="Simona" />
@@ -25,6 +26,7 @@ Estos son algunos proyectos en los que he participado.
     * Este es un [video de la aplicación](https://youtu.be/sk6mE4X6qV8){:target="_blank"}.
     * Diseño e interacción: equipo de diseño de i2T, liderado por Patricia Madriñán.
     * Participé en el desarrollo de la aplicación móvil y del _backend_.
+    * Es el proyecto que más tiempo ha estado activo.
 
 <center>
     <img src="/images/leishmaniasis1.png" height="512" border="1px" alt="Leishmaniasis" />
@@ -33,6 +35,7 @@ Estos son algunos proyectos en los que he participado.
 </center>
 
 * [__Ubik__](https://ubiksystem.com){:target="_blank"} mejora los resultados de instituciones, empresas y consultores a través de una plataforma que diagnostica, conecta y controla la actividad de consultoría.
+    * Es el desarrollo Web más grande que he tenido.
 
 <center>
     <img src="/images/ubik.png" height="512" border="1px" alt="Ubik" />
@@ -48,7 +51,7 @@ Estos son algunos proyectos en los que he participado.
     <br/><br/>
 </center>
 
-* [__ParqueaderoApp__](https://parqueaderoapp.azurewebsites.net/){:target="_blank"} controla la entrada y salida de vehículos en parqueaderos. Empezó como una solución para un negocio familiar y ahora está ayudando a otras personas. Hice la aplicación móvil y el portal web.
+* [__ParqueaderoApp__](https://parqueaderoapp.azurewebsites.net/){:target="_blank"} (soporte extendido) controla la entrada y salida de vehículos en parqueaderos. Empezó como una solución para un negocio familiar y ahora está ayudando a otras personas. Hice la aplicación móvil y el portal web.
 
 <center>
     <img src="/images/parqueaderoapp1.png" height="512" border="1px" alt="ParqueaderoApp" />
