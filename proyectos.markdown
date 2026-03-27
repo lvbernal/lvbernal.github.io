@@ -1,19 +1,19 @@
 ---
 layout: default
-title: Proyectos
+title: Projects
 permalink: /proyectos/
 ---
 
-## Proyectos
+## Projects
 
-Estos son algunos proyectos en los que he participado.
+These are some projects I have worked on.
 
-* El __Simon__ es un sistema de monitoreo de espectro radioeléctrico.
-    * Desarrollado en el [Grupo de Investigación i2T](https://www.icesi.edu.co/i2t/){:target="_blank"}.
-    * Este es un [video de todo el ecosistema](https://youtu.be/-Okj3ywicU8){:target="_blank"}.
-    * Diseño e interacción: equipo de diseño de i2T, liderado por [Patricia Madriñán](http://elsitiomio.com/){:target="_blank"}.
-    * Participé en el desarrollo de la aplicación móvil y del sistema embebido, que usa Radio Definida por Software (SDR).
-    * Es quizá el proyecto más complejo en el que he participado.
+* __Simon__ is a radio spectrum monitoring system.
+    * Developed at the [i2T Research Group](https://www.icesi.edu.co/i2t/){:target="_blank"}.
+    * Here is a [video of the full ecosystem](https://youtu.be/-Okj3ywicU8){:target="_blank"}.
+    * Design and interaction: i2T design team, led by [Patricia Madriñán](http://elsitiomio.com/){:target="_blank"}.
+    * I worked on the mobile app and the embedded system, which uses Software Defined Radio (SDR).
+    * It is probably the most complex project I have worked on.
 
 <center>
     <img src="/images/simona1.png" height="512" border="1px" alt="Simona" />
@@ -21,12 +21,12 @@ Estos son algunos proyectos en los que he participado.
     <br/><br/>
 </center>
 
-* [__Leishmaniasis__](https://play.google.com/store/apps/details?id=guaralrpctwo.cideim.guaral.guaralrpc){:target="_blank"} ayuda en la detección temprana de la leishmaniasis cutánea.
-    * Desarrollada en el Grupo de Investigación i2T, en colaboración con el [CIDEIM](http://www.cideim.org.co/cideim/){:target="_blank"}.
-    * Este es un [video de la aplicación](https://youtu.be/sk6mE4X6qV8){:target="_blank"}.
-    * Diseño e interacción: equipo de diseño de i2T, liderado por Patricia Madriñán.
-    * Participé en el desarrollo de la aplicación móvil y del _backend_.
-    * Es el proyecto que más tiempo ha estado activo.
+* [__Leishmaniasis__](https://play.google.com/store/apps/details?id=guaralrpctwo.cideim.guaral.guaralrpc){:target="_blank"} helps with early detection of cutaneous leishmaniasis.
+    * Developed at the i2T Research Group, in collaboration with [CIDEIM](http://www.cideim.org.co/cideim/){:target="_blank"}.
+    * Here is a [video of the app](https://youtu.be/sk6mE4X6qV8){:target="_blank"}.
+    * Design and interaction: i2T design team, led by Patricia Madriñán.
+    * I worked on the mobile app and the _backend_.
+    * It is the project that has been active the longest.
 
 <center>
     <img src="/images/leishmaniasis1.png" height="512" border="1px" alt="Leishmaniasis" />
@@ -34,16 +34,16 @@ Estos son algunos proyectos en los que he participado.
     <br/><br/>
 </center>
 
-* [__Ubik__](https://ubiksystem.com){:target="_blank"} mejora los resultados de instituciones, empresas y consultores a través de una plataforma que diagnostica, conecta y controla la actividad de consultoría.
-    * Es el desarrollo Web más grande que he tenido.
+* [__Ubik__](https://ubiksystem.com){:target="_blank"} improves outcomes for institutions, companies, and consultants through a platform that diagnoses, connects, and controls consulting activity.
+    * It is the largest web development project I have worked on.
 
 <center>
     <img src="/images/ubik.png" height="512" border="1px" alt="Ubik" />
     <br/><br/>
 </center>
 
-* __Consultorías__. Definición de parámetros técnicos, simulaciones, trabajo de campo, redes de monitoreo, traducción de documentación técnica, entre otros.
-    * Colombia y Costa Rica.
+* __Consulting__. Definition of technical parameters, simulations, fieldwork, monitoring networks, technical documentation translation, among others.
+    * Colombia and Costa Rica.
 
 <center>
     <img src="/images/costarica1.jpg" width="320" border="1px" alt="Costa Rica" />
@@ -51,7 +51,7 @@ Estos son algunos proyectos en los que he participado.
     <br/><br/>
 </center>
 
-* [__ParqueaderoApp__](https://parqueaderoapp.azurewebsites.net/){:target="_blank"} (soporte extendido) controla la entrada y salida de vehículos en parqueaderos. Empezó como una solución para un negocio familiar y ahora está ayudando a otras personas. Hice la aplicación móvil y el portal web.
+* [__ParqueaderoApp__](https://parqueaderoapp.azurewebsites.net/){:target="_blank"} (extended support) controls vehicle entry and exit in parking lots. It started as a solution for a family business and is now helping other people. I built the mobile app and web portal.
 
 <center>
     <img src="/images/parqueaderoapp1.png" height="512" border="1px" alt="ParqueaderoApp" />
@@ -59,19 +59,19 @@ Estos son algunos proyectos en los que he participado.
     <br/><br/>
 </center>
 
-* __Calendario Tributario Colombiano__ (retirada) muestra el Calendario Tributario Colombiano y lo filtra de acuerdo a las necesidades del usuario. Contiene la descripción de los impuestos y sus fechas de pago. Desarrollada mientras trabajaba en un emprendimiento.
+* __Colombian Tax Calendar__ (retired) shows the Colombian Tax Calendar and filters it according to user needs. It includes descriptions of taxes and their payment dates. Developed while I was working on a startup.
 
 <center>
-    <img src="/images/calendario1.png" height="512" border="1px" alt="Calendario Tributario"/>
-    <img src="/images/calendario2.png" height="512" border="1px" alt="Calendario Tributario"/>
+    <img src="/images/calendario1.png" height="512" border="1px" alt="Colombian Tax Calendar"/>
+    <img src="/images/calendario2.png" height="512" border="1px" alt="Colombian Tax Calendar"/>
     <br/><br/>
 </center>
 
-* Mi primera aplicación móvil: permite denunciar delitos contra el medio ambiente.
-    * Desarrollada para participar en [Imagine Cup 2008](https://blog.lvbernal.com/2011/09/imagine-cup-2011-new-york.html){:target="_blank"}.
+* My first mobile app: it allows users to report crimes against the environment.
+    * Developed to participate in [Imagine Cup 2008](https://blog.lvbernal.com/2011/09/imagine-cup-2011-new-york.html){:target="_blank"}.
 
 <center>
-    <img src="/images/ecosoft1.png" height="512" alt="Primera App" />
-    <img src="/images/ecosoft2.png" height="512" alt="Primera App" />
+    <img src="/images/ecosoft1.png" height="512" alt="First App" />
+    <img src="/images/ecosoft2.png" height="512" alt="First App" />
     <br/><br/>
 </center>

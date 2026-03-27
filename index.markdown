@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Inicio
+title: Home
 ---
 
 <center>
@@ -11,14 +11,14 @@ title: Inicio
     <br/><br/>
 </center>
 
-¡Hola! Soy Leonardo.
+Hello! I am Leonardo.
 
-Construyo software y co-organizo la [comunidad CaliSharp](https://www.meetup.com/CaliSharpCO/){:target="_blank"}. Soy Ingeniero Telemático de profesión, con una Maestría en Informática y Telecomunicaciones. Me gusta el desarrollo y durante más de 11 años me he dedicado a [proyectos](/proyectos){:target="_blank"} relacionados principalmente con Telecomunicaciones y _mHealth_.
+I build software and co-organize the [CaliSharp community](https://www.meetup.com/CaliSharpCO/){:target="_blank"}. I am a Telematics Engineer by profession, with a Master's degree in Computer Science and Telecommunications. I enjoy development, and for more than 11 years I have worked on [projects](/proyectos){:target="_blank"} mainly related to Telecommunications and _mHealth_.
 
-También he participado en estudios técnicos para definir los parámetros de operación y convivencia de tecnologías inalámbricas como 5G, DVB-T2 y LTE.
+I have also participated in technical studies to define operating and coexistence parameters for wireless technologies such as 5G, DVB-T2, and LTE.
 
-Puedes encontrarme como _@lvbernal_ en casi cualquier parte: quizá veas algo útil en mi [blog](https://blog.lvbernal.com/){:target="_blank"} o mi [twitter](https://twitter.com/lvbernal){:target="_blank"}. Algunas veces participo en charlas como esta, en la que hablé sobre [Integraciones con Teams](https://www.youtube.com/watch?v=EvNIob5QI9o){:target="_blank"}.
+You can find me as _@lvbernal_ almost anywhere: you might find something useful on my [blog](https://blog.lvbernal.com/){:target="_blank"} or [Twitter](https://twitter.com/lvbernal){:target="_blank"}. Sometimes I speak at sessions like this one, where I talked about [Teams Integrations](https://www.youtube.com/watch?v=EvNIob5QI9o){:target="_blank"}.
 
 --
 
-*Actualmente y en orden de antigüedad: [Grupo i2t](https://www.icesi.edu.co/investigaciones-publicaciones/grupos/452-grupo-de-informatica-y-telecomunicaciones){:target="_blank"}, [Ubik](https://ubiksystem.com){:target="_blank"} y [AnniQ](https://www.anniq.ai/){:target="_blank"}.*
+*Currently, in chronological order: [i2t Group](https://www.icesi.edu.co/investigaciones-publicaciones/grupos/452-grupo-de-informatica-y-telecomunicaciones){:target="_blank"}, [Ubik](https://ubiksystem.com){:target="_blank"}, and [AnniQ](https://www.anniq.ai/){:target="_blank"}.*
