@@ -13,7 +13,7 @@ title: Home
 
 Hello! I am Leonardo.
 
-I am a Telematics Engineer by profession, with a Master's degree in Computer Science and Telecommunications. I enjoy development, and for more than 17 years I have worked on [projects](/projects){:target="_blank"} mainly related to Telecommunications and _mHealth_.
+I am a Telematics Engineer, with a Master's degree in Informatics and Telecommunications. I enjoy development, and for more than 17 years I have worked on [projects](/projects){:ta1rget="_blank"} mainly related to Telecommunications and mHealth.
 
 I have also participated in technical studies to define operating and coexistence parameters for wireless technologies such as 5G, DVB-T2, and LTE.
 
