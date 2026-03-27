@@ -5,25 +5,12 @@ permalink: /projects/
 ---
 
 <div class="projects-page">
-  <section class="projects-hero">
-    <p class="projects-eyebrow">Portfolio</p>
-    <h2 class="projects-title">Selected Projects</h2>
-    <p class="projects-subtitle">
-      Product, telecom, and AI-driven work focused on delivering practical systems with measurable business and operational value.
-    </p>
-    <ul class="projects-highlights">
-      <li>17+ years building software and digital products.</li>
-      <li>Hands-on delivery across mobile, backend, web, and embedded systems.</li>
-      <li>Experience in telecom, mHealth, strategic planning, and AI-assisted workflows.</li>
-    </ul>
-  </section>
-
   <section class="projects-section">
     <h3>Featured Work</h3>
     <div class="projects-grid">
       <article class="project-card">
         <div class="project-card__header">
-          <h4><a href="https://anniq.ai" target="_blank" rel="noopener noreferrer">AnniQ</a></h4>
+          <h4>AnniQ</h4>
           <span class="project-tag">AI Product</span>
         </div>
         <p class="project-summary">
@@ -43,7 +30,7 @@ permalink: /projects/
 
       <article class="project-card">
         <div class="project-card__header">
-          <h4><a href="https://ubiksystem.com" target="_blank" rel="noopener noreferrer">Ubik</a></h4>
+          <h4>Ubik</h4>
           <span class="project-tag">B2B Platform</span>
         </div>
         <p class="project-summary">
