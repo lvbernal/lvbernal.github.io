@@ -30,6 +30,13 @@ These are some of the projects I have worked on.
     <br/><br/>
 </center>
 
+* [__AnniQ__](https://anniq.ai){:target="_blank"} AnniQ keeps organizations on brand and on schedule: a full squad of social media experts, crafting content and boosting sales.
+
+<center>
+    <img src="/images/anniq.png" width="640" border="1px" alt="AnniQ" />
+    <br/><br/>
+</center>
+
 * [__Ubik__](https://ubiksystem.com){:target="_blank"} improves outcomes for companies through a platform that diagnoses, connects, and controls strategic planning.
 
 <center>
