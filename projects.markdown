@@ -4,74 +4,173 @@ title: Projects
 permalink: /projects/
 ---
 
-## Projects
+<div class="projects-page">
+  <section class="projects-hero">
+    <p class="projects-eyebrow">Portfolio</p>
+    <h2 class="projects-title">Selected Projects</h2>
+    <p class="projects-subtitle">
+      Product, telecom, and AI-driven work focused on delivering practical systems with measurable business and operational value.
+    </p>
+    <ul class="projects-highlights">
+      <li>17+ years building software and digital products.</li>
+      <li>Hands-on delivery across mobile, backend, web, and embedded systems.</li>
+      <li>Experience in telecom, mHealth, strategic planning, and AI-assisted workflows.</li>
+    </ul>
+  </section>
 
-These are some of the projects I have worked on.
+  <section class="projects-section">
+    <h3>Featured Work</h3>
+    <div class="projects-grid">
+      <article class="project-card">
+        <div class="project-card__header">
+          <h4><a href="https://anniq.ai" target="_blank" rel="noopener noreferrer">AnniQ</a></h4>
+          <span class="project-tag">AI Product</span>
+        </div>
+        <p class="project-summary">
+          A platform that helps organizations stay on brand and on schedule with social media strategy, content production, and growth support.
+        </p>
+        <ul class="project-details">
+          <li><strong>Focus:</strong> Product development for AI-assisted content workflows.</li>
+          <li><strong>Value:</strong> Supports marketing teams in improving consistency and execution speed.</li>
+        </ul>
+        <p class="project-links">
+          <a href="https://anniq.ai" target="_blank" rel="noopener noreferrer">Visit site</a>
+        </p>
+        <div class="project-gallery project-gallery--single">
+          <img src="/images/anniq.png" alt="AnniQ platform screenshot" />
+        </div>
+      </article>
 
-* __Simon__ is a radio spectrum monitoring system.
-    * Developed at the [i2T Research Group](https://www.icesi.edu.co/i2t/){:target="_blank"}.
-    * Here is a [video of the full ecosystem](https://youtu.be/-Okj3ywicU8){:target="_blank"}.
-    * I worked on the mobile app and the embedded system, which uses software-defined radio.
+      <article class="project-card">
+        <div class="project-card__header">
+          <h4><a href="https://ubiksystem.com" target="_blank" rel="noopener noreferrer">Ubik</a></h4>
+          <span class="project-tag">B2B Platform</span>
+        </div>
+        <p class="project-summary">
+          Strategic planning platform that helps companies diagnose, connect, and control execution to improve outcomes.
+        </p>
+        <ul class="project-details">
+          <li><strong>Focus:</strong> Product and platform engineering for decision workflows.</li>
+          <li><strong>Value:</strong> Improves visibility and control over strategic initiatives.</li>
+        </ul>
+        <p class="project-links">
+          <a href="https://ubiksystem.com" target="_blank" rel="noopener noreferrer">Visit site</a>
+        </p>
+        <div class="project-gallery project-gallery--single">
+          <img src="/images/ubik.png" alt="Ubik platform screenshot" />
+        </div>
+      </article>
 
-<center>
-    <img src="/images/simona1.png" height="512" border="1px" alt="Simona" />
-    <img src="/images/simona2.png" height="512" border="1px" alt="Simona" />
-    <br/><br/>
-</center>
+      <article class="project-card">
+        <div class="project-card__header">
+          <h4>SIMON</h4>
+          <span class="project-tag">Telecom R&D</span>
+        </div>
+        <p class="project-summary">
+          Radio spectrum monitoring ecosystem developed at the
+          <a href="https://www.icesi.edu.co/i2t/" target="_blank" rel="noopener noreferrer">i2T Research Group</a>.
+        </p>
+        <ul class="project-details">
+          <li><strong>Role:</strong> Mobile application and embedded SDR system development.</li>
+          <li><strong>Domain:</strong> Spectrum monitoring and software-defined radio.</li>
+        </ul>
+        <p class="project-links">
+          <a href="https://youtu.be/-Okj3ywicU8" target="_blank" rel="noopener noreferrer">Watch ecosystem video</a>
+        </p>
+        <div class="project-gallery">
+          <img src="/images/simona1.png" alt="SIMON mobile app screen" />
+          <img src="/images/simona2.png" alt="SIMON telemetry screen" />
+        </div>
+      </article>
 
-* __Leishmaniasis__ helps with the early detection of cutaneous leishmaniasis.
-    * Developed at the i2T Research Group in collaboration with [CIDEIM](http://www.cideim.org.co/cideim/){:target="_blank"}.
-    * Here is a [video of the app](https://youtu.be/sk6mE4X6qV8){:target="_blank"}.
-    * I worked on the mobile app and the backend.
+      <article class="project-card">
+        <div class="project-card__header">
+          <h4>Leishmaniasis Early Detection</h4>
+          <span class="project-tag">mHealth</span>
+        </div>
+        <p class="project-summary">
+          Mobile + backend solution to support early detection of cutaneous leishmaniasis, built with i2T and
+          <a href="http://www.cideim.org.co/cideim/" target="_blank" rel="noopener noreferrer">CIDEIM</a>.
+        </p>
+        <ul class="project-details">
+          <li><strong>Role:</strong> Mobile app and backend implementation.</li>
+          <li><strong>Value:</strong> Digital support for early screening workflows.</li>
+        </ul>
+        <p class="project-links">
+          <a href="https://youtu.be/sk6mE4X6qV8" target="_blank" rel="noopener noreferrer">Watch app video</a>
+        </p>
+        <div class="project-gallery">
+          <img src="/images/leishmaniasis1.png" alt="Leishmaniasis app image classification screen" />
+          <img src="/images/leishmaniasis2.png" alt="Leishmaniasis diagnostic assistant screen" />
+        </div>
+      </article>
 
-<center>
-    <img src="/images/leishmaniasis1.png" height="512" border="1px" alt="Leishmaniasis" />
-    <img src="/images/leishmaniasis2.png" height="512" border="1px" alt="Leishmaniasis" />
-    <br/><br/>
-</center>
+      <article class="project-card">
+        <div class="project-card__header">
+          <h4>Telecom Consulting</h4>
+          <span class="project-tag">Advisory</span>
+        </div>
+        <p class="project-summary">
+          Technical consulting across spectrum, network monitoring, simulations, field studies, and engineering documentation.
+        </p>
+        <ul class="project-details">
+          <li><strong>Scope:</strong> Definition of operating and coexistence parameters for wireless technologies.</li>
+          <li><strong>Activities:</strong> Fieldwork, analysis, and stakeholder-ready reports.</li>
+        </ul>
+        <div class="project-gallery project-gallery--photos">
+          <img src="/images/costarica1.jpg" alt="Telecom field work in Costa Rica" />
+          <img src="/images/colombia1.jpg" alt="Telecom field work in Colombia" />
+        </div>
+      </article>
+    </div>
+  </section>
 
-* [__AnniQ__](https://anniq.ai){:target="_blank"} AnniQ keeps organizations on brand and on schedule: a full squad of social media experts, crafting content and boosting sales.
+  <section class="projects-section">
+    <h3>Earlier Products</h3>
+    <div class="projects-grid projects-grid--legacy">
+      <article class="project-card project-card--compact">
+        <div class="project-card__header">
+          <h4>ParqueaderoApp</h4>
+        </div>
+        <p class="project-summary">
+          Vehicle entry/exit management system for parking operations.
+        </p>
+        <ul class="project-details">
+          <li><strong>Role:</strong> Built both the mobile application and web portal.</li>
+        </ul>
+        <div class="project-gallery">
+          <img src="/images/parqueaderoapp1.png" alt="ParqueaderoApp entry screen" />
+          <img src="/images/parqueaderoapp2.png" alt="ParqueaderoApp control dashboard screen" />
+        </div>
+      </article>
 
-<center>
-    <img src="/images/anniq.png" width="640" border="1px" alt="AnniQ" />
-    <br/><br/>
-</center>
+      <article class="project-card project-card--compact">
+        <div class="project-card__header">
+          <h4>Colombian Tax Calendar</h4>
+        </div>
+        <p class="project-summary">
+          Mobile app for filtering tax obligations and payment dates for Colombian users.
+        </p>
+        <div class="project-gallery">
+          <img src="/images/calendario1.png" alt="Tax calendar app list view" />
+          <img src="/images/calendario2.png" alt="Tax calendar app detail view" />
+        </div>
+      </article>
 
-* [__Ubik__](https://ubiksystem.com){:target="_blank"} improves outcomes for companies through a platform that diagnoses, connects, and controls strategic planning.
-
-<center>
-    <img src="/images/ubik.png" height="512" border="1px" alt="Ubik" />
-    <br/><br/>
-</center>
-
-* __Consulting__. Definition of technical parameters, simulations, fieldwork, network monitoring, technical documentation translation, and more.
-
-<center>
-    <img src="/images/costarica1.jpg" width="320" border="1px" alt="Costa Rica" />
-    <img src="/images/colombia1.jpg" width="320" border="1px" alt="Colombia" />
-    <br/><br/>
-</center>
-
-* __ParqueaderoApp__ (retired) controls vehicle entry and exit in parking lots. It started as a solution for a family business. I built the mobile app and web portal.
-
-<center>
-    <img src="/images/parqueaderoapp1.png" height="512" border="1px" alt="ParqueaderoApp" />
-    <img src="/images/parqueaderoapp2.png" height="512" border="1px" alt="ParqueaderoApp" />
-    <br/><br/>
-</center>
-
-* __Colombian Tax Calendar__ (retired) shows the Colombian tax calendar and lets users filter it according to their needs. It includes descriptions of taxes and their payment dates.
-
-<center>
-    <img src="/images/calendario1.png" height="512" border="1px" alt="Colombian Tax Calendar"/>
-    <img src="/images/calendario2.png" height="512" border="1px" alt="Colombian Tax Calendar"/>
-    <br/><br/>
-</center>
-
-* __EcoSoft__, my first mobile app, allows users to report crimes against the environment. It was developed to participate in [Imagine Cup 2008](https://blog.lvbernal.com/2011/09/imagine-cup-2011-new-york.html){:target="_blank"}.
-
-<center>
-    <img src="/images/ecosoft1.png" height="512" alt="First App" />
-    <img src="/images/ecosoft2.png" height="512" alt="First App" />
-    <br/><br/>
-</center>
+      <article class="project-card project-card--compact">
+        <div class="project-card__header">
+          <h4>EcoSoft</h4>
+        </div>
+        <p class="project-summary">
+          My first mobile app, created for
+          <a href="https://blog.lvbernal.com/2011/09/imagine-cup-2011-new-york.html" target="_blank" rel="noopener noreferrer">Imagine Cup 2008</a>,
+          focused on environmental incident reporting.
+        </p>
+        <div class="project-gallery">
+          <img src="/images/ecosoft1.png" alt="EcoSoft reporting screen" />
+          <img src="/images/ecosoft2.png" alt="EcoSoft map screen" />
+        </div>
+      </article>
+    </div>
+  </section>
+</div>
