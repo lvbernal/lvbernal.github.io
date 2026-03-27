@@ -6,12 +6,12 @@ permalink: /projects/
 
 ## Projects
 
-These are some projects I have worked on.
+These are some of the projects I have worked on.
 
 * __Simon__ is a radio spectrum monitoring system.
     * Developed at the [i2T Research Group](https://www.icesi.edu.co/i2t/){:target="_blank"}.
     * Here is a [video of the full ecosystem](https://youtu.be/-Okj3ywicU8){:target="_blank"}.
-    * I worked on the mobile app and the embedded system, which uses Software Defined Radio.
+    * I worked on the mobile app and the embedded system, which uses software-defined radio.
 
 <center>
     <img src="/images/simona1.png" height="512" border="1px" alt="Simona" />
@@ -19,8 +19,8 @@ These are some projects I have worked on.
     <br/><br/>
 </center>
 
-* __Leishmaniasis__ helps with early detection of cutaneous leishmaniasis.
-    * Developed at the i2T Research Group, in collaboration with [CIDEIM](http://www.cideim.org.co/cideim/){:target="_blank"}.
+* __Leishmaniasis__ helps with the early detection of cutaneous leishmaniasis.
+    * Developed at the i2T Research Group in collaboration with [CIDEIM](http://www.cideim.org.co/cideim/){:target="_blank"}.
     * Here is a [video of the app](https://youtu.be/sk6mE4X6qV8){:target="_blank"}.
     * I worked on the mobile app and the backend.
 
@@ -37,7 +37,7 @@ These are some projects I have worked on.
     <br/><br/>
 </center>
 
-* __Consulting__. Definition of technical parameters, simulations, fieldwork, monitoring networks, technical documentation translation, among others.
+* __Consulting__. Definition of technical parameters, simulations, fieldwork, network monitoring, technical documentation translation, and more.
 
 <center>
     <img src="/images/costarica1.jpg" width="320" border="1px" alt="Costa Rica" />
@@ -45,7 +45,7 @@ These are some projects I have worked on.
     <br/><br/>
 </center>
 
-* __ParqueaderoApp__ controls vehicle entry and exit in parking lots. It started as a solution for a family business. I built the mobile app and web portal.
+* __ParqueaderoApp__ (retired) controls vehicle entry and exit in parking lots. It started as a solution for a family business. I built the mobile app and web portal.
 
 <center>
     <img src="/images/parqueaderoapp1.png" height="512" border="1px" alt="ParqueaderoApp" />
@@ -53,7 +53,7 @@ These are some projects I have worked on.
     <br/><br/>
 </center>
 
-* __Colombian Tax Calendar__ (retired) shows the Colombian Tax Calendar and filters it according to user needs. It includes descriptions of taxes and their payment dates.
+* __Colombian Tax Calendar__ (retired) shows the Colombian tax calendar and lets users filter it according to their needs. It includes descriptions of taxes and their payment dates.
 
 <center>
     <img src="/images/calendario1.png" height="512" border="1px" alt="Colombian Tax Calendar"/>
@@ -61,7 +61,7 @@ These are some projects I have worked on.
     <br/><br/>
 </center>
 
-* EcoSoft, my first mobile app, allows users to report crimes against the environment. Was developed to participate in [Imagine Cup 2008](https://blog.lvbernal.com/2011/09/imagine-cup-2011-new-york.html){:target="_blank"}.
+* __EcoSoft__, my first mobile app, allows users to report crimes against the environment. It was developed to participate in [Imagine Cup 2008](https://blog.lvbernal.com/2011/09/imagine-cup-2011-new-york.html){:target="_blank"}.
 
 <center>
     <img src="/images/ecosoft1.png" height="512" alt="First App" />
