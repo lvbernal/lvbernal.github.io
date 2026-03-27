@@ -794,3 +794,83 @@ table td {
     height: 190px;
   }
 }
+
+/* Combined home + projects page */
+.home-page {
+  display: grid;
+  gap: 34px;
+}
+
+.home-hero {
+  display: grid;
+  grid-template-columns: 160px minmax(0, 1fr);
+  gap: 20px;
+  padding: 20px;
+  border: 1px solid var(--projects-border);
+  border-radius: 16px;
+  background: linear-gradient(145deg, #ffffff 0%, #f3f9ff 60%, #eef8f6 100%);
+}
+
+.home-avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 18px;
+  border: 2px solid #d7e7fb;
+  object-fit: cover;
+  background: #ffffff;
+}
+
+.home-hero__content h1 {
+  margin-bottom: 8px;
+  font-size: 38px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.home-kicker {
+  margin-bottom: 8px;
+  color: #0a5e58;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.home-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 8px;
+  margin-bottom: 12px;
+}
+
+.home-links a {
+  font-weight: 600;
+}
+
+.home-current-text {
+  margin-bottom: 0;
+  color: #243857;
+}
+
+.home-current-text a {
+  font-weight: 600;
+}
+
+.projects-redirect {
+  padding: 12px 0;
+}
+
+@media (max-width: 760px) {
+  .home-hero {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .home-avatar {
+    width: 132px;
+    height: 132px;
+  }
+
+  .home-hero__content h1 {
+    font-size: 31px;
+  }
+}
