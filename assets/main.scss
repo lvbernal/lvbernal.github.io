@@ -689,6 +689,7 @@ table td {
 }
 
 .project-card {
+  position: relative;
   height: auto;
   padding: 18px;
   border: 1px solid var(--projects-border);
@@ -699,9 +700,9 @@ table td {
 
 .project-card__header {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 10px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 6px;
   margin-bottom: 10px;
 }
 
@@ -709,11 +710,17 @@ table td {
   margin: 0;
   font-size: 22px;
   font-weight: 640;
+  line-height: 1.2;
 }
 
 .project-tag {
   display: inline-flex;
   align-items: center;
+  position: absolute;
+  top: 0;
+  right: 16px;
+  transform: translateY(-50%);
+  z-index: 1;
   border: 1px solid #b8ddd9;
   border-radius: 999px;
   padding: 3px 10px;
@@ -786,8 +793,7 @@ table td {
 
 @media (max-width: 700px) {
   .project-card__header {
-    align-items: flex-start;
-    flex-direction: column;
+    gap: 6px;
   }
 
   .project-gallery img {

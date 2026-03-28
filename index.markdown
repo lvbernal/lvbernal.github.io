@@ -58,7 +58,7 @@ title: Home
 
       <article class="project-card">
         <div class="project-card__header">
-          <h4>Ubik</h4>
+          <h4>UBIK</h4>
           <span class="project-tag">B2B Platform</span>
         </div>
         <p class="project-summary">
@@ -100,7 +100,7 @@ title: Home
 
       <article class="project-card">
         <div class="project-card__header">
-          <h4>Leishmaniasis Early Detection</h4>
+          <h4>Leishmaniasis</h4>
           <span class="project-tag">mHealth</span>
         </div>
         <p class="project-summary">
