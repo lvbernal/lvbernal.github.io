@@ -21,6 +21,8 @@ title: Home
       <p class="home-links">
         <a href="https://blog.lvbernal.com/" target="_blank" rel="noopener noreferrer">Blog</a>
         <a href="https://twitter.com/lvbernal" target="_blank" rel="noopener noreferrer">Twitter</a>
+        <a href="https://www.linkedin.com/in/lvbernal/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/lvbernal/details/publications/" target="_blank" rel="noopener noreferrer">Publications</a>
       </p>
       <p class="home-current-text">
         Lately, you will find me around
@@ -134,6 +136,23 @@ title: Home
           <img src="/images/costarica1.jpg" alt="Telecom field work in Costa Rica" />
           <img src="/images/colombia1.jpg" alt="Telecom field work in Colombia" />
         </div>
+      </article>
+
+      <article class="project-card">
+        <div class="project-card__header">
+          <h4>LACNIC Líderes Program</h4>
+          <span class="project-tag">Internet Governance</span>
+        </div>
+        <p class="project-summary">
+          Participation in Líderes, a LACNIC program that provides funding and mentoring to support research on selected Internet Governance topics from the perspective of different communities.
+        </p>
+        <ul class="project-details">
+          <li><strong>Program:</strong> Líderes by LACNIC.</li>
+          <li><strong>Cohort:</strong> Projects selected in 2025.</li>
+        </ul>
+        <p class="project-links">
+          <a href="https://www.lacnic.net/7770/2/lacnic/projects-selected-in-2025" target="_blank" rel="noopener noreferrer">View selected projects</a>
+        </p>
       </article>
     </div>
   </section>
