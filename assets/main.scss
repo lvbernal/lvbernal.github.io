@@ -767,6 +767,7 @@ table td {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 10px;
+  align-items: stretch;
 }
 
 .project-gallery--single {
@@ -774,30 +775,38 @@ table td {
 }
 
 .project-gallery img {
+  display: block;
   width: 100%;
-  height: 220px;
+  height: auto;
+  aspect-ratio: 9 / 16;
   border-radius: 10px;
-  border: 1px solid #dce3ef;
-  object-fit: contain;
+  border: none;
+  object-fit: cover;
   object-position: center top;
-  background-color: var(--projects-surface);
+  background-color: #ffffff;
+}
+
+.project-gallery--single img {
+  aspect-ratio: 16 / 10;
+  object-fit: contain;
+  object-position: center;
 }
 
 .project-gallery--photos img {
+  aspect-ratio: 4 / 3;
   object-fit: cover;
+  object-position: center;
 }
 
 .projects-grid--legacy .project-gallery img {
-  height: 180px;
+  object-fit: contain;
+  object-position: center top;
+  padding: 6px;
 }
 
 @media (max-width: 700px) {
   .project-card__header {
     gap: 6px;
-  }
-
-  .project-gallery img {
-    height: 190px;
   }
 }
 
@@ -821,7 +830,7 @@ table td {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 2px solid #d7e7fb;
+  border: none;
   object-fit: cover;
   background: #ffffff;
 }
