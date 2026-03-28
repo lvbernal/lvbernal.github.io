@@ -890,3 +890,101 @@ table td {
     font-size: 31px;
   }
 }
+.project-gallery img.project-image-zoomable {
+  cursor: zoom-in;
+  transition: filter 0.18s ease;
+}
+
+.project-gallery img.project-image-zoomable:hover,
+.project-gallery img.project-image-zoomable:focus-visible {
+  filter: brightness(1.04);
+}
+
+.project-gallery img.project-image-zoomable:focus-visible {
+  outline: 2px solid #0f766e;
+  outline-offset: 2px;
+}
+
+.project-image-lightbox {
+  width: min(94vw, 1200px);
+  max-width: 94vw;
+  padding: 14px;
+  border: 0;
+  border-radius: 14px;
+  background: #0e1524;
+  color: #dfe9fb;
+}
+
+.project-image-lightbox::backdrop {
+  background: rgba(8, 12, 22, 0.78);
+}
+
+.project-image-lightbox__content {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.project-image-lightbox__close {
+  align-self: flex-end;
+  margin-bottom: 8px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border: 1px solid rgba(223, 233, 251, 0.35);
+  border-radius: 999px;
+  background: rgba(223, 233, 251, 0.08);
+  color: #f7fbff;
+  font-size: 25px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.project-image-lightbox__close:hover,
+.project-image-lightbox__close:focus-visible {
+  background: rgba(223, 233, 251, 0.18);
+}
+
+.project-image-lightbox__close:focus-visible {
+  outline: 2px solid #d8f3ef;
+  outline-offset: 2px;
+}
+
+.project-image-lightbox__viewport {
+  overflow: auto;
+  max-height: min(82vh, 920px);
+  border-radius: 10px;
+}
+
+.project-image-lightbox__image {
+  display: block;
+  width: 100%;
+  max-height: min(82vh, 920px);
+  border-radius: 10px;
+  object-fit: contain;
+  object-position: center;
+  background: #0a1020;
+  cursor: zoom-in;
+}
+
+.project-image-lightbox__image.is-zoomed {
+  width: min(175vw, 1800px);
+  max-width: none;
+  max-height: none;
+  cursor: zoom-out;
+}
+
+.project-image-lightbox__caption {
+  margin-top: 8px;
+  margin-bottom: 0;
+  color: #d6e1f6;
+  font-size: 14px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .project-gallery img.project-image-zoomable {
+    transition: none;
+  }
+}

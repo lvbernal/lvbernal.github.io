@@ -205,3 +205,15 @@ title: Home
     </div>
   </section>
 </div>
+
+<dialog class="project-image-lightbox" id="project-image-lightbox" aria-label="Project image preview">
+  <figure class="project-image-lightbox__content">
+    <button class="project-image-lightbox__close" id="project-image-lightbox-close" type="button" aria-label="Close image preview">&times;</button>
+    <div class="project-image-lightbox__viewport">
+      <img class="project-image-lightbox__image" id="project-image-lightbox-image" src="" alt="" tabindex="0" />
+    </div>
+    <figcaption class="project-image-lightbox__caption" id="project-image-lightbox-caption"></figcaption>
+  </figure>
+</dialog>
+
+<script src="{{ '/assets/project-image-zoom.js' | relative_url }}" defer></script>
