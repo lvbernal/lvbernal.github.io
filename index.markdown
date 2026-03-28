@@ -10,8 +10,7 @@ title: Home
   <section class="home-hero">
     <img class="home-avatar" src="/images/profile2.png" alt="Leonardo Vargas portrait" />
     <div class="home-hero__content">
-      <p class="home-kicker">Hi, I am Leo.</p>
-      <h1>Leonardo Vargas</h1>
+      <h1>Hi! I am Leo</h1>
       <p>
         I enjoy building useful things with software. This site is my corner of the internet to share projects I have worked on in telecommunications, mHealth, and AI.
       </p>
