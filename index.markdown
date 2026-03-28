@@ -8,7 +8,7 @@ title: Home
 
 <div class="projects-page home-page">
   <section class="home-hero">
-    <img class="home-avatar" src="/images/profile.png" alt="Leonardo Vargas portrait" />
+    <img class="home-avatar" src="/images/profile2.png" alt="Leonardo Vargas portrait" />
     <div class="home-hero__content">
       <p class="home-kicker">Hi, I am Leo.</p>
       <h1>Leonardo Vargas</h1>
