@@ -15,7 +15,7 @@ title: Home
         I enjoy building useful things with software. This site is my corner of the internet to share projects I have worked on in telecommunications, mHealth, and AI.
       </p>
       <p>
-        Over the years I have moved between research and product work: from spectrum studies (5G, DVB-T2, LTE) to mobile apps and AI products.
+        Over the years I have moved between research, product, and infrastructure work: from spectrum studies (5G, DVB-T2, LTE) to mobile apps, AI products, and DevOps/infrastructure management.
       </p>
       <p class="home-links">
         <a href="https://blog.lvbernal.com/" target="_blank" rel="noopener noreferrer">Blog</a>
