@@ -41,12 +41,8 @@ title: Home
           <span class="project-tag">AI Product</span>
         </div>
         <p class="project-summary">
-          A platform that helps organizations stay on brand and on schedule with social media strategy, content production, and growth support.
+          A platform that helps organizations stay on brand and on schedule with social media strategy, AI-assisted content workflows, and growth support, improving consistency and execution speed.
         </p>
-        <ul class="project-details">
-          <li><strong>Focus:</strong> Product development for AI-assisted content workflows.</li>
-          <li><strong>Value:</strong> Supports marketing teams in improving consistency and execution speed.</li>
-        </ul>
         <p class="project-links">
           <a href="https://anniq.ai" target="_blank" rel="noopener noreferrer">Visit site</a>
         </p>
@@ -61,12 +57,8 @@ title: Home
           <span class="project-tag">B2B Platform</span>
         </div>
         <p class="project-summary">
-          Strategic planning platform that helps companies diagnose, connect, and control execution to improve outcomes.
+          Strategic planning platform that helps companies diagnose, connect, and control execution through decision workflows, improving visibility over strategic initiatives.
         </p>
-        <ul class="project-details">
-          <li><strong>Focus:</strong> Product and platform engineering for decision workflows.</li>
-          <li><strong>Value:</strong> Improves visibility and control over strategic initiatives.</li>
-        </ul>
         <p class="project-links">
           <a href="https://ubiksystem.com" target="_blank" rel="noopener noreferrer">Visit site</a>
         </p>
@@ -82,12 +74,8 @@ title: Home
         </div>
         <p class="project-summary">
           Radio spectrum monitoring ecosystem developed at the
-          <a href="https://www.icesi.edu.co/i2t/" target="_blank" rel="noopener noreferrer">i2T Research Group</a>.
+          <a href="https://www.icesi.edu.co/i2t/" target="_blank" rel="noopener noreferrer">i2T Research Group</a>, combining mobile application and embedded SDR components for software-defined radio monitoring.
         </p>
-        <ul class="project-details">
-          <li><strong>Role:</strong> Mobile application and embedded SDR system development.</li>
-          <li><strong>Domain:</strong> Spectrum monitoring and software-defined radio.</li>
-        </ul>
         <p class="project-links">
           <a href="https://youtu.be/-Okj3ywicU8" target="_blank" rel="noopener noreferrer">Watch ecosystem video</a>
         </p>
@@ -104,12 +92,8 @@ title: Home
         </div>
         <p class="project-summary">
           Mobile + backend solution to support early detection of cutaneous leishmaniasis, built with i2T and
-          <a href="http://www.cideim.org.co/cideim/" target="_blank" rel="noopener noreferrer">CIDEIM</a>.
+          <a href="http://www.cideim.org.co/cideim/" target="_blank" rel="noopener noreferrer">CIDEIM</a>, providing digital support for early screening workflows.
         </p>
-        <ul class="project-details">
-          <li><strong>Role:</strong> Mobile app and backend implementation.</li>
-          <li><strong>Value:</strong> Digital support for early screening workflows.</li>
-        </ul>
         <p class="project-links">
           <a href="https://youtu.be/sk6mE4X6qV8" target="_blank" rel="noopener noreferrer">Watch app video</a>
         </p>
@@ -125,12 +109,8 @@ title: Home
           <span class="project-tag">Advisory</span>
         </div>
         <p class="project-summary">
-          Technical consulting across spectrum, network monitoring, simulations, field studies, and engineering documentation.
+          Technical consulting across spectrum, network monitoring, simulations, field studies, and engineering documentation, including definition of operating and coexistence parameters for wireless technologies, fieldwork, analysis, and stakeholder-ready reports.
         </p>
-        <ul class="project-details">
-          <li><strong>Scope:</strong> Definition of operating and coexistence parameters for wireless technologies.</li>
-          <li><strong>Activities:</strong> Fieldwork, analysis, and stakeholder-ready reports.</li>
-        </ul>
         <div class="project-gallery project-gallery--photos">
           <img src="/images/costarica1.jpg" alt="Telecom field work in Costa Rica" />
           <img src="/images/colombia1.jpg" alt="Telecom field work in Colombia" />
@@ -143,12 +123,8 @@ title: Home
           <span class="project-tag">Internet Governance</span>
         </div>
         <p class="project-summary">
-          Participation in Líderes, a LACNIC program that provides funding and mentoring to support research on selected Internet Governance topics from the perspective of different communities.
+          Líderes is a LACNIC program that provides funding and mentoring to support research on selected Internet Governance topics from the perspective of different communities; this project was selected in the 2025 cohort.
         </p>
-        <ul class="project-details">
-          <li><strong>Program:</strong> Líderes by LACNIC.</li>
-          <li><strong>Cohort:</strong> Projects selected in 2025.</li>
-        </ul>
         <p class="project-links">
           <a href="https://www.lacnic.net/7770/2/lacnic/projects-selected-in-2025" target="_blank" rel="noopener noreferrer">View selected projects</a>
         </p>
@@ -164,11 +140,8 @@ title: Home
           <h4>ParqueaderoApp</h4>
         </div>
         <p class="project-summary">
-          Vehicle entry/exit management system for parking operations.
+          Vehicle entry/exit management system for parking operations, including a mobile application and web portal.
         </p>
-        <ul class="project-details">
-          <li><strong>Role:</strong> Built both the mobile application and web portal.</li>
-        </ul>
         <div class="project-gallery">
           <img src="/images/parqueaderoapp1.png" alt="ParqueaderoApp entry screen" />
           <img src="/images/parqueaderoapp2.png" alt="ParqueaderoApp control dashboard screen" />
@@ -193,7 +166,7 @@ title: Home
           <h4>EcoSoft</h4>
         </div>
         <p class="project-summary">
-          My first mobile app, created for
+          Mobile app created for
           <a href="https://blog.lvbernal.com/2011/09/imagine-cup-2011-new-york.html" target="_blank" rel="noopener noreferrer">Imagine Cup 2008</a>,
           focused on environmental incident reporting.
         </p>
