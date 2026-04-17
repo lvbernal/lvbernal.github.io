@@ -105,16 +105,15 @@ title: Home
 
       <article class="project-card">
         <div class="project-card__header">
-          <h4>Telecom Consulting</h4>
-          <span class="project-tag">Advisory</span>
+          <h4>Parkinson Alliance</h4>
+          <span class="project-tag">Community Health</span>
         </div>
         <p class="project-summary">
-          Technical consulting across spectrum, network monitoring, simulations, field studies, and engineering documentation, including definition of operating and coexistence parameters for wireless technologies, fieldwork, analysis, and stakeholder-ready reports.
+          Comprehensive care and interdisciplinary research group that seeks to coordinate the efforts of professionals, patients, and caregivers to improve the quality of life of people living with Parkinson's disease.
         </p>
-        <div class="project-gallery project-gallery--photos">
-          <img src="/images/costarica1.jpg" alt="Telecom field work in Costa Rica" />
-          <img src="/images/colombia1.jpg" alt="Telecom field work in Colombia" />
-        </div>
+        <p class="project-links">
+          <a href="https://www.facebook.com/alianzaparkinsoncali" target="_blank" rel="noopener noreferrer">Visit group</a>
+        </p>
       </article>
 
       <article class="project-card">
@@ -129,6 +128,21 @@ title: Home
           <a href="https://www.lacnic.net/7770/2/lacnic/projects-selected-in-2025" target="_blank" rel="noopener noreferrer">View selected projects</a>
         </p>
       </article>
+
+      <article class="project-card">
+        <div class="project-card__header">
+          <h4>Telecom Consulting</h4>
+          <span class="project-tag">Advisory</span>
+        </div>
+        <p class="project-summary">
+          Technical consulting across spectrum, network monitoring, simulations, field studies, and engineering documentation, including definition of operating and coexistence parameters for wireless technologies, fieldwork, analysis, and stakeholder-ready reports.
+        </p>
+        <div class="project-gallery project-gallery--photos">
+          <img src="/images/costarica1.jpg" alt="Telecom field work in Costa Rica" />
+          <img src="/images/colombia1.jpg" alt="Telecom field work in Colombia" />
+        </div>
+      </article>
+
     </div>
   </section>
 
